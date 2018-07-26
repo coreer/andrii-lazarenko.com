@@ -1,0 +1,128 @@
+baseURL = "https://github.com/coreer/andrii-lazarenko.com"
+defaultContentLanguage = "ua"
+theme = "hugo-initio"
+publishDir = "docs"
+
+# Languages
+[languages.ua]
+  languageName = "Укр"
+  title = "Андрій Лазаренко - інтегративна психотерапія гештальт і культурно-історичного підходів"
+  name = "Андрій Лазаренко"
+  description = "Інтегративна психотерапія гештальт і культурно-історичного підходів"
+  email = "andrew.yeremenko@gmail.com"
+  phone = "+38 066 74 39 713"
+  address = "Київ, Україна"
+
+ 
+  [[languages.ua.menu.main]]
+    url = "/"
+    name = "Головна"
+    weight = 1
+  [[languages.ua.menu.main]]
+    url = "/about/"
+    name = "Про нас"
+    weight = 20
+  [[languages.ua.menu.main]]
+    url = "/contact/"
+    name = "Контакти"
+    weight = 30
+
+[languages.ru]
+  languageName = "Рус"
+  title = "Андрей Лазаренко - интегративная психотерапия гештальт и культурно-исторического подходов"
+  name = "Андрей Лазаренко"
+  description = "Интегративная психотерапия гештальт и культурно-исторического подходов<br/> Терапия организаций"
+  email = "andrew.yeremenko@gmail.com"
+  phone = "+38 066 74 39 713"
+  address = "Киев, Украина"
+
+  [[languages.ru.menu.main]]
+    url = "/ru/"
+    name = "Главная"
+    weight = 1
+  [[languages.ru.menu.main]]
+    url = "/about/"
+    name = "О нас"
+    weight = 20
+  [[languages.ru.menu.main]]
+    url = "/contact/"
+    name = "Контакты"
+    weight = 30
+
+[languages.en]
+  languageName = "En"
+  title = "Andrii"
+  name = "Andrii Lazarenko"
+  description = "Psychotherapist"
+  email = "andrew.yeremenko@gmail.com"
+  phone = "+38 066 74 39 713"
+  address = "Kiev, Ukraine"
+
+
+  [[languages.en.menu.main]]
+    url = "/en/"
+    name = "Main"
+    weight = 1
+  [[languages.en.menu.main]]
+    url = "/about/"
+    name = "About us"
+    weight = 20
+  [[languages.en.menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 30
+
+[params]    
+    year = 2018
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownload = true
+    showClients = true
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = true
+    footerEnableFormWidget = true
+
+
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "GA-000000000-0"
+
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/andriiy.lazarenko"
+    icon = "fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/_coreer/"
+    icon = "fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/andrii-lazarenko-074ba614/"
+    icon = "fa-linkedin-square"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "email"
+	url = "mailto:andrew.yeremenko@gmail.com"
+    icon = "fa-envelope"
+    footer = false
+    sharethis = true
+    network = "email"
