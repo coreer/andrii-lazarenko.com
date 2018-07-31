@@ -1,9 +1,39 @@
-baseURL = "https://github.com/coreer/andrii-lazarenko.com"
-defaultContentLanguage = "ua"
+baseURL = "https://andrii-lazarenko.com"
+defaultContentLanguage = "ru"
 theme = "hugo-initio"
-publishDir = "docs"
+enableRobotsTXT = true
 
 # Languages
+[languages.en]
+  languageName = "En"
+  title = "Andrii"
+  name = "Andrii Lazarenko"
+  description = "Psychotherapist"
+  email = "andrew.yeremenko@gmail.com"
+  phone = "+38 066 74 39 713"
+  address = "Kiev, Ukraine"
+
+  contactTitleTranslation = "Contact"
+  followMeTranslation = "Follow me"
+  keyMessage = "Psychotherapy can change inner core of a person - inner change changes everything around in one's life"
+
+  [[languages.en.menu.main]]
+    url = "/en/"
+    name = "Main"
+    weight = 1
+  [[languages.en.menu.main]]
+    url = "/about/"
+    name = "About me"
+    weight = 10
+  [[languages.en.menu.main]]
+    url = "/post/"
+    name = "Blog"
+    weight = 20  
+  [[languages.en.menu.main]]
+    url = "#contactTitle"
+    name = "Contact"
+    weight = 30
+
 [languages.ua]
   languageName = "Укр"
   title = "Андрій Лазаренко - інтегративна психотерапія гештальт і культурно-історичного підходів"
@@ -13,6 +43,9 @@ publishDir = "docs"
   phone = "+38 066 74 39 713"
   address = "Київ, Україна"
 
+  contactTitleTranslation = "Контакти"
+  followMeTranslation = "Підписатись"
+  keyMessage = "Головне повідомлення"
  
   [[languages.ua.menu.main]]
     url = "/"
@@ -20,12 +53,16 @@ publishDir = "docs"
     weight = 1
   [[languages.ua.menu.main]]
     url = "/about/"
-    name = "Про нас"
-    weight = 20
+    name = "Про мене"
+    weight = 10
   [[languages.ua.menu.main]]
-    url = "/contact/"
+    url = "/post/"
+    name = "Статті"
+    weight = 20    
+  [[languages.ua.menu.main]]
+    url = "#contactTitle"
     name = "Контакти"
-    weight = 30
+    weight = 30   
 
 [languages.ru]
   languageName = "Рус"
@@ -36,41 +73,27 @@ publishDir = "docs"
   phone = "+38 066 74 39 713"
   address = "Киев, Украина"
 
+  contactTitleTranslation = "Контакти"
+  followMeTranslation = "Подписаться"
+  keyMessage = "Главное сообщение"
+
   [[languages.ru.menu.main]]
     url = "/ru/"
     name = "Главная"
     weight = 1
   [[languages.ru.menu.main]]
     url = "/about/"
-    name = "О нас"
+    name = "Обо мне"
+    weight = 10  
+  [[languages.ru.menu.main]]
+    url = "/post/"
+    name = "Статьи"
     weight = 20
   [[languages.ru.menu.main]]
-    url = "/contact/"
+    url = "#contactTitle"
     name = "Контакты"
     weight = 30
 
-[languages.en]
-  languageName = "En"
-  title = "Andrii"
-  name = "Andrii Lazarenko"
-  description = "Psychotherapist"
-  email = "andrew.yeremenko@gmail.com"
-  phone = "+38 066 74 39 713"
-  address = "Kiev, Ukraine"
-
-
-  [[languages.en.menu.main]]
-    url = "/en/"
-    name = "Main"
-    weight = 1
-  [[languages.en.menu.main]]
-    url = "/about/"
-    name = "About us"
-    weight = 20
-  [[languages.en.menu.main]]
-    url = "/contact/"
-    name = "Contact"
-    weight = 30
 
 [params]    
     year = 2018
@@ -81,13 +104,13 @@ publishDir = "docs"
     showSubheader = true
     showServices = true
     showRecentWorks = false
-    showDownload = true
-    showClients = true
+    showDownload = false
+    showClients = false
 
     footerEnableContact = true
     footerEnableFollowme = true
     footerEnableTextWidget = true
-    footerEnableFormWidget = true
+    footerEnableFormWidget = false
 
 
 
@@ -116,7 +139,7 @@ publishDir = "docs"
 	title = "linkedin"
 	url = "https://www.linkedin.com/in/andrii-lazarenko-074ba614/"
     icon = "fa-linkedin-square"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 [[params.social]]
