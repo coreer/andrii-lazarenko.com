@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andrii-lazarenko.com/en/</loc>
+    <loc>http://andrii-lazarenko.com/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://andrii-lazarenko.com/"
+                href="http://andrii-lazarenko.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/"
+                href="http://andrii-lazarenko.com/ua/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andrii-lazarenko.com/en/"
+                href="http://andrii-lazarenko.com/en/"
                 />
   </url>
   
   <url>
-    <loc>https://andrii-lazarenko.com/en/categories/</loc>
+    <loc>http://andrii-lazarenko.com/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/categories/"
+                href="http://andrii-lazarenko.com/ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://andrii-lazarenko.com/categories/"
+                href="http://andrii-lazarenko.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andrii-lazarenko.com/en/categories/"
+                href="http://andrii-lazarenko.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://andrii-lazarenko.com/en/tags/</loc>
+    <loc>http://andrii-lazarenko.com/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/tags/"
+                href="http://andrii-lazarenko.com/ua/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://andrii-lazarenko.com/tags/"
+                href="http://andrii-lazarenko.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://andrii-lazarenko.com/en/tags/"
+                href="http://andrii-lazarenko.com/en/tags/"
                 />
   </url>
   
