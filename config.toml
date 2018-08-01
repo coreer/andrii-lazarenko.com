@@ -1,4 +1,4 @@
-baseURL = "http://andrii-lazarenko.com/"
+baseURL = "https://andrii-lazarenko.com/"
 defaultContentLanguage = "ru"
 theme = "hugo-initio"
 enableRobotsTXT = true
