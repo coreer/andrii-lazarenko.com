@@ -1,4 +1,4 @@
-baseURL = "https://andrii-lazarenko.com"
+baseURL = "https://andrii-lazarenko.com/"
 defaultContentLanguage = "ru"
 theme = "hugo-initio"
 enableRobotsTXT = true
@@ -68,7 +68,7 @@ enableRobotsTXT = true
   languageName = "Рус"
   title = "Андрей Лазаренко - интегративная психотерапия гештальт и культурно-исторического подходов"
   name = "Андрей Лазаренко"
-  description = "Интегративная психотерапия гештальт и культурно-исторического подходов<br/> Терапия организаций"
+  description = "Интегративная психотерапия гештальт и культурно-исторического подходов. Терапия организаций"
   email = "andrew.yeremenko@gmail.com"
   phone = "+38 066 74 39 713"
   address = "Киев, Украина"
