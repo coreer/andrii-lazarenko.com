@@ -12,6 +12,9 @@ enableRobotsTXT = true
   email = "andrew.yeremenko@gmail.com"
   phone = "+38 066 74 39 713"
   address = "Kiev, Ukraine"
+  
+  hpServicesTitleTranslation = "Services"
+  ReadMoreTransl = "Read more..."
 
   contactTitleTranslation = "Contact"
   followMeTranslation = "Follow me"
@@ -43,6 +46,9 @@ enableRobotsTXT = true
   phone = "+38 066 74 39 713"
   address = "Київ, Україна"
 
+  hpServicesTitleTranslation = "Послуги"
+  ReadMoreTransl = "Читати далі..."
+
   contactTitleTranslation = "Контакти"
   followMeTranslation = "Підписатись"
   keyMessage = "Головне повідомлення"
@@ -72,7 +78,10 @@ enableRobotsTXT = true
   email = "andrew.yeremenko@gmail.com"
   phone = "+38 066 74 39 713"
   address = "Киев, Украина"
-
+  
+  hpServicesTitleTranslation = "Услуги"
+  ReadMoreTransl = "Читать далее..."
+  
   contactTitleTranslation = "Контакти"
   followMeTranslation = "Подписаться"
   keyMessage = "Главное сообщение"
