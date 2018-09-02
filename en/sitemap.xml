@@ -27,13 +27,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/categories/"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://andrii-lazarenko.com/categories/"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -47,13 +47,13 @@
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/tags/"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ru"
-                href="https://andrii-lazarenko.com/tags/"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/tags/"
                 />
     <xhtml:link
                 rel="alternate"
