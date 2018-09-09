@@ -4,44 +4,12 @@ theme = "hugo-initio"
 enableRobotsTXT = true
 
 # Languages
-[languages.en]
-  languageName = "En"
-  title = "Andrii"
-  name = "Andrii Lazarenko"
-  description = "Psychotherapist"
-  email = "andrew.yeremenko@gmail.com"
-  phone = "+38 066 74 39 713"
-  address = "Kiev, Ukraine"
-  
-  hpServicesTitleTranslation = "Services"
-  ReadMoreTransl = "Read more..."
-
-  contactTitleTranslation = "Contact"
-  followMeTranslation = "Follow me"
-  keyMessage = "Psychotherapy can change inner core of a person - inner change changes everything around in one's life"
-
-  [[languages.en.menu.main]]
-    url = "/en/"
-    name = "Main"
-    weight = 1
-  [[languages.en.menu.main]]
-    url = "/about/"
-    name = "About me"
-    weight = 10
-  [[languages.en.menu.main]]
-    url = "/post/"
-    name = "Blog"
-    weight = 20  
-  [[languages.en.menu.main]]
-    url = "#contactTitle"
-    name = "Contact"
-    weight = 30
 
 [languages.ua]
   languageName = "Укр"
   title = "Андрій Лазаренко - інтегративна психотерапія гештальт і культурно-історичного підходів"
   name = "Андрій Лазаренко"
-  description = "Інтегративна психотерапія гештальт і культурно-історичного підходів"
+  description = "Оргетерапевт. Інтегративна психотерапія гештальт і культурно-історичного підходів"
   email = "andrew.yeremenko@gmail.com"
   phone = "+38 066 74 39 713"
   address = "Київ, Україна"
@@ -50,21 +18,22 @@ enableRobotsTXT = true
   ReadMoreTransl = "Читати далі..."
 
   contactTitleTranslation = "Контакти"
-  followMeTranslation = "Підписатись"
+  followMeTranslation = "Соцмережі"
   keyMessage = "Головне повідомлення"
+  footerFormWidgetHeadline = "Підписатись"
  
   [[languages.ua.menu.main]]
     url = "/"
     name = "Головна"
     weight = 1
   [[languages.ua.menu.main]]
-    url = "/about/"
-    name = "Про мене"
-    weight = 10
-  [[languages.ua.menu.main]]
     url = "/post/"
     name = "Статті"
-    weight = 20    
+    weight = 10    
+  [[languages.ua.menu.main]]
+    url = "/about/"
+    name = "Про мене"
+    weight = 20  
   [[languages.ua.menu.main]]
     url = "#contactTitle"
     name = "Контакти"
@@ -74,7 +43,7 @@ enableRobotsTXT = true
   languageName = "Рус"
   title = "Андрей Лазаренко - интегративная психотерапия гештальт и культурно-исторического подходов"
   name = "Андрей Лазаренко"
-  description = "Интегративная психотерапия гештальт и культурно-исторического подходов. Терапия организаций"
+  description = "Оргтерапевт. Интегративная психотерапия гештальт и культурно-исторического подходов."
   email = "andrew.yeremenko@gmail.com"
   phone = "+38 066 74 39 713"
   address = "Киев, Украина"
@@ -83,21 +52,25 @@ enableRobotsTXT = true
   ReadMoreTransl = "Читать далее..."
   
   contactTitleTranslation = "Контакти"
-  followMeTranslation = "Подписаться"
-  keyMessage = "Главное сообщение"
+  followMeTranslation = "Соцсети"
+  keyMessage = "Изнутри наружу -- путь самопознания и самосовершенстования"
+  footerFormWidgetHeadline = "Подписаться"
+
+  footerTextBoxHeadline = "Cуть культурно-исторического подхода"
+  footerTextBoxBody = "Возвращаясь к корням, соеденить настоящее с прошлым, ради будущего!"
 
   [[languages.ru.menu.main]]
     url = "/ru/"
     name = "Главная"
     weight = 1
   [[languages.ru.menu.main]]
-    url = "/about/"
-    name = "Обо мне"
-    weight = 10  
-  [[languages.ru.menu.main]]
     url = "/post/"
     name = "Статьи"
-    weight = 20
+    weight = 10
+  [[languages.ru.menu.main]]
+    url = "/about/"
+    name = "Обо мне"
+    weight = 20      
   [[languages.ru.menu.main]]
     url = "#contactTitle"
     name = "Контакты"
@@ -119,7 +92,7 @@ enableRobotsTXT = true
     footerEnableContact = true
     footerEnableFollowme = true
     footerEnableTextWidget = true
-    footerEnableFormWidget = false
+    footerEnableFormWidget = true
 
 
 
