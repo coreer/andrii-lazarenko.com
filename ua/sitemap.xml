@@ -71,11 +71,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://andrii-lazarenko.com/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ua"
                 href="https://andrii-lazarenko.com/ua/categories/"
                 />
@@ -107,11 +102,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://andrii-lazarenko.com/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ua"
                 href="https://andrii-lazarenko.com/ua/tags/"
                 />
@@ -121,11 +111,6 @@
     <loc>https://andrii-lazarenko.com/ua/</loc>
     <lastmod>2018-08-02T00:00:00+03:00</lastmod>
     <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://andrii-lazarenko.com/en/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
