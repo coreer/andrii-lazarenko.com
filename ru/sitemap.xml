@@ -5,6 +5,16 @@
   <url>
     <loc>https://andrii-lazarenko.com/about/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/about/"
+                />
   </url>
   
   <url>

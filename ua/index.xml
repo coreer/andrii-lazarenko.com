@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Андрій Лазаренко - інтегративна психотерапія гештальт і культурно-історичного підходів</title>
+    <title>Андрій Лазаренко - оргетерапевт. Інтегративна психотерапія гештальт і культурно-історичного підходів</title>
     <link>https://andrii-lazarenko.com/ua/</link>
-    <description>Recent content on Андрій Лазаренко - інтегративна психотерапія гештальт і культурно-історичного підходів</description>
+    <description>Recent content on Андрій Лазаренко - оргетерапевт. Інтегративна психотерапія гештальт і культурно-історичного підходів</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0300</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andrii-lazarenko.com/ua/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Обо мне</title>
+      <link>https://andrii-lazarenko.com/ua/about/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://andrii-lazarenko.com/ua/about/</guid>
+      <description>Вітаю Вас, шановний читач!
+Переконаний, що краще знайомство особисте, але відкрито подаю інформацію про себе і в письмовій формі.
+Я, Лазаренко Андрій Петрович, родився на Миколаївщині(Україна), родами ж із Чернігівщини. Родився у достатньо дорослих батьків у 1986 році, коли мамі було 38, а батьку 57, які ось тільки почали життя на новому місці і разом. У батьків ще було дуже багато від тієї культури, яку старалась &amp;ldquo;замінити&amp;rdquo; культура радянскька, і це не тільки і не стільки мислення власності.</description>
+    </item>
     
     <item>
       <title>Психотерапія для інженерів IT сфери</title>
