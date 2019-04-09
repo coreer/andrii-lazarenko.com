@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [languages.ua]
   languageName = "Укр"
-  title = "Андрій Лазаренко - інтегративна психотерапія гештальт і культурно-історичного підходів"
+  title = "Андрій Лазаренко - оргетерапевт. Інтегративна психотерапія гештальт і культурно-історичного підходів"
   name = "Андрій Лазаренко"
   description = "Оргетерапевт. Інтегративна психотерапія гештальт і культурно-історичного підходів"
   email = "andrew.yeremenko@gmail.com"
@@ -20,6 +20,7 @@ enableRobotsTXT = true
   contactTitleTranslation = "Контакти"
   followMeTranslation = "Соцмережі"
   keyMessage = "Головне повідомлення"
+  myFriendsTitleTranslation = "Мої друзі"
   footerFormWidgetHeadline = "Підписатись"
  
   [[languages.ua.menu.main]]
@@ -41,7 +42,7 @@ enableRobotsTXT = true
 
 [languages.ru]
   languageName = "Рус"
-  title = "Андрей Лазаренко - интегративная психотерапия гештальт и культурно-исторического подходов"
+  title = "Андрей Лазаренко - оргтерапевт. Интегративная психотерапия гештальт и культурно-исторического подходов"
   name = "Андрей Лазаренко"
   description = "Оргтерапевт. Интегративная психотерапия гештальт и культурно-исторического подходов."
   email = "andrew.yeremenko@gmail.com"
@@ -54,6 +55,7 @@ enableRobotsTXT = true
   contactTitleTranslation = "Контакти"
   followMeTranslation = "Соцсети"
   keyMessage = "Изнутри наружу -- путь самопознания и самосовершенстования"
+  myFriendsTitleTranslation = "Мои друзья"
   footerFormWidgetHeadline = "Подписаться"
 
   footerTextBoxHeadline = "Cуть культурно-исторического подхода"
@@ -85,8 +87,8 @@ enableRobotsTXT = true
 
     showSubheader = true
     showServices = true
-    showRecentWorks = false
-    showDownload = false
+    showRecentWorks = true
+    showMyFriends = false
     showClients = false
 
     footerEnableContact = true
