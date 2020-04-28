@@ -1,6 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/"
+                />
+  </url>
   
   <url>
     <loc>https://andrii-lazarenko.com/ua/about/</loc>
@@ -14,6 +29,21 @@
                 rel="alternate"
                 hreflang="ua"
                 href="https://andrii-lazarenko.com/ua/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/service/</loc>
+    <lastmod>2018-08-02T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/service/"
                 />
   </url>
   
@@ -78,7 +108,6 @@
   
   <url>
     <loc>https://andrii-lazarenko.com/ua/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -92,24 +121,7 @@
   </url>
   
   <url>
-    <loc>https://andrii-lazarenko.com/ua/service/</loc>
-    <lastmod>2018-08-02T00:00:00+03:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://andrii-lazarenko.com/service/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/service/"
-                />
-  </url>
-  
-  <url>
     <loc>https://andrii-lazarenko.com/ua/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -123,32 +135,16 @@
   </url>
   
   <url>
-    <loc>https://andrii-lazarenko.com/ua/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://andrii-lazarenko.com/ua/signup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://andrii-lazarenko.com/"
+                href="https://andrii-lazarenko.com/signup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://andrii-lazarenko.com/ua/service/body-healing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://andrii-lazarenko.com/service/body-healing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/service/body-healing/"
+                href="https://andrii-lazarenko.com/ua/signup/"
                 />
   </url>
   
