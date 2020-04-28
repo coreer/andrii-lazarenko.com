@@ -20,3 +20,13 @@ Lets put public pages in separated branch
 ```
 git worktree add -B gh-pages public origin/gh-pages
 ```
+
+Development commands.
+```
+hugo server --debug --disableFastRender --ignoreCache
+```
+
+Generate static pages:
+```
+hugo -D
+```

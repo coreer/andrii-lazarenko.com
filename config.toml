@@ -10,7 +10,7 @@ enableRobotsTXT = true
   title = "Андрій Лазаренко - оргетерапевт. Інтегративна психотерапія гештальт і культурно-історичного підходів"
   name = "Андрій Лазаренко"
   description = "Оргетерапевт. Інтегративна психотерапія гештальт і культурно-історичного підходів"
-  email = "andrew.yeremenko@gmail.com"
+  email = "andrii.lazarenko.psy@gmail.com"
   phone = "+38 066 74 39 713"
   address = "Київ, Україна"
 
@@ -30,22 +30,28 @@ enableRobotsTXT = true
   [[languages.ua.menu.main]]
     url = "/post/"
     name = "Статті"
-    weight = 10    
+    weight = 20  
+  [[languages.ua.menu.main]]
+    url = "/signup/"
+    name = "Записатись"
+    weight = 30      
   [[languages.ua.menu.main]]
     url = "/about/"
     name = "Про мене"
-    weight = 20  
+    weight = 40  
   [[languages.ua.menu.main]]
     url = "#contactTitle"
     name = "Контакти"
-    weight = 30   
+    weight = 50 
+
+  
 
 [languages.ru]
   languageName = "Рус"
   title = "Андрей Лазаренко - оргтерапевт. Интегративная психотерапия гештальт и культурно-исторического подходов"
   name = "Андрей Лазаренко"
   description = "Оргтерапевт. Интегративная психотерапия гештальт и культурно-исторического подходов."
-  email = "andrew.yeremenko@gmail.com"
+  email = "andrii.lazarenko.psy@gmail.com"
   phone = "+38 066 74 39 713"
   address = "Киев, Украина"
   
@@ -54,7 +60,7 @@ enableRobotsTXT = true
   
   contactTitleTranslation = "Контакти"
   followMeTranslation = "Соцсети"
-  keyMessage = "Изнутри наружу -- путь самопознания и самосовершенстования"
+  keyMessage = "Изнутри наружу - путь самопознания и самосовершенстования"
   myFriendsTitleTranslation = "Мои друзья"
   footerFormWidgetHeadline = "Подписаться"
 
@@ -68,15 +74,20 @@ enableRobotsTXT = true
   [[languages.ru.menu.main]]
     url = "/post/"
     name = "Статьи"
-    weight = 10
+    weight = 20
+  [[languages.ru.menu.main]]
+    url = "/signup/"
+    name = "Записаться"
+    weight = 30        
   [[languages.ru.menu.main]]
     url = "/about/"
     name = "Обо мне"
-    weight = 20      
+    weight = 40      
   [[languages.ru.menu.main]]
     url = "#contactTitle"
     name = "Контакты"
-    weight = 30
+    weight = 50
+
 
 
 [params]    
@@ -128,7 +139,7 @@ enableRobotsTXT = true
     network = "linkedin"
 [[params.social]]
 	title = "email"
-	url = "mailto:andrew.yeremenko@gmail.com"
+	url = "mailto:andrii.lazarenko.psy@gmail.com"
     icon = "fa-envelope"
     footer = false
     sharethis = true
