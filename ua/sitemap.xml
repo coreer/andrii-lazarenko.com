@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrii-lazarenko.com/ua/service/</loc>
+    <lastmod>2020-04-29T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/service/"
+                />
+  </url>
+  
+  <url>
     <loc>https://andrii-lazarenko.com/ua/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-29T00:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -14,6 +29,21 @@
                 rel="alternate"
                 hreflang="ua"
                 href="https://andrii-lazarenko.com/ua/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/service/psychotherapy/</loc>
+    <lastmod>2020-04-29T00:00:00+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/service/psychotherapy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/service/psychotherapy/"
                 />
   </url>
   
@@ -33,62 +63,32 @@
   </url>
   
   <url>
-    <loc>https://andrii-lazarenko.com/ua/service/</loc>
-    <lastmod>2018-08-02T00:00:00+03:00</lastmod>
+    <loc>https://andrii-lazarenko.com/ua/service/group-psychotherapy/</loc>
+    <lastmod>2018-09-01T00:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://andrii-lazarenko.com/service/"
+                href="https://andrii-lazarenko.com/service/group-psychotherapy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/service/"
+                href="https://andrii-lazarenko.com/ua/service/group-psychotherapy/"
                 />
   </url>
   
   <url>
-    <loc>https://andrii-lazarenko.com/ua/service/psychotherapy-for-it/</loc>
-    <lastmod>2018-08-02T00:00:00+03:00</lastmod>
+    <loc>https://andrii-lazarenko.com/ua/service/organizational-therapy/</loc>
+    <lastmod>2018-09-01T00:00:00+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://andrii-lazarenko.com/service/psychotherapy-for-it/"
+                href="https://andrii-lazarenko.com/service/organizational-therapy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/service/psychotherapy-for-it/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://andrii-lazarenko.com/ua/service/psychotherapy-for-owners/</loc>
-    <lastmod>2018-08-01T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://andrii-lazarenko.com/service/psychotherapy-for-owners/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/service/psychotherapy-for-owners/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://andrii-lazarenko.com/ua/service/psychotherapy/</loc>
-    <lastmod>2018-07-30T00:00:00+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://andrii-lazarenko.com/service/psychotherapy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://andrii-lazarenko.com/ua/service/psychotherapy/"
+                href="https://andrii-lazarenko.com/ua/service/organizational-therapy/"
                 />
   </url>
   
