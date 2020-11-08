@@ -26,7 +26,8 @@ Development commands.
 hugo server --debug --disableFastRender --ignoreCache
 ```
 
-Generate static pages:
+Publishing commands
 ```
-hugo -D
+./commit-gh-pages-files.sh
+./publish_to_ghpages.sh
 ```
