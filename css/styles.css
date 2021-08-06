@@ -225,7 +225,7 @@ a:hover {
 
 **********************************************************************/
 #head {
-  background: #f4f4f4 url(../images/bg_head.jpg) top center;
+  background: #f4f4f4  url(../images/bg_head.jpg) top center;
   background-size: cover;
   color: #7C7C7C;
   padding: 30px 0 35px 0;
@@ -845,3 +845,61 @@ footer.entry-meta .meta-in {
       color: #004488;
    }
 }
+
+
+/*********************************************************************
+
+
+                                CUSTOMIZATION
+
+
+**********************************************************************/
+#head:hover {
+  background-image: url(../images/bg_head_grey.jpg);
+}  
+
+#logo img {
+    transition: filter .5s ease-in-out;
+    -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(100%); /* FF 35+ */
+}
+  
+#head:hover #logo img {
+  transition: filter .5s ease-in-out;
+    -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
+    filter: grayscale(0%); /* FF 35+ */
+  }
+
+/*#head h1 {
+  text-shadow: 1px 1px 2px #FFF27A, 0 0 25px #FFF27A, 0 0 5px #FFF27A;
+} */
+#head .title,
+#head .tagline {  
+  margin-top: 10px;
+  padding: 0 5px 3px;
+  background-color: #FFF27A;
+  opacity: 0.7;
+  display: inline-block;
+} 
+
+#footer {
+  background: #003e74;
+}
+
+#mc_embed_signup {
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+#mc_embed_signup form {
+  padding-bottom: 0;
+}
+
+#mc-embedded-subscribe,
+#underfooter {
+  background: #bd1550 !important;
+  color: #fff;
+}
+
+
+  

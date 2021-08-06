@@ -1,70 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Андрей Лазаренко - оргтерапевт. Интегративная психотерапия гештальт и культурно-исторического подходов</title>
+    <title>Services on Андрей Лазаренко - психолог. Интегративная психотерапия.</title>
     <link>https://andrii-lazarenko.com/service/</link>
-    <description>Recent content in Services on Андрей Лазаренко - оргтерапевт. Интегративная психотерапия гештальт и культурно-исторического подходов</description>
+    <description>Recent content in Services on Андрей Лазаренко - психолог. Интегративная психотерапия.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0300</lastBuildDate>
     
 	<atom:link href="https://andrii-lazarenko.com/service/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Психотерапия</title>
-      <link>https://andrii-lazarenko.com/service/psychotherapy/</link>
-      <pubDate>Wed, 29 Apr 2020 00:00:00 +0300</pubDate>
+      <title>Групповая психотерапия</title>
+      <link>https://andrii-lazarenko.com/service/group-psychotherapy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrii-lazarenko.com/service/psychotherapy/</guid>
-      <description>&lt;p&gt;Работаю с:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;профессиональным выгоранием;&lt;/li&gt;
-&lt;li&gt;проблемами во взаимоотношениях;&lt;/li&gt;
-&lt;li&gt;зависимостями;&lt;/li&gt;
-&lt;li&gt;травмами насилия;&lt;/li&gt;
-&lt;li&gt;страхами;&lt;/li&gt;
-&lt;li&gt;психосоматикой (болезни и боли, которых как будто не должно быть в соответсвии с результатми диагностики);&lt;/li&gt;
-&lt;li&gt;депрессиями;&lt;/li&gt;
-&lt;li&gt;бессоницей;&lt;/li&gt;
-&lt;li&gt;утратой либидо;&lt;/li&gt;
-&lt;li&gt;прочее.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Психотерапия &amp;ndash; не решает проблемы клиента, она помогает справляться с переживаниями и болями, которые мешают видеть решения этих проблем. Таким образом клиент учится справляться именно с переживаниями, а не обретает новую зависимость в виде терапевта, который &amp;ldquo;незаменимо решает проблемы&amp;rdquo;. Наступает качественный переход от &amp;ldquo;переживаний&amp;rdquo; к &amp;ldquo;проживаниям&amp;rdquo;.&lt;/p&gt;</description>
+      <guid>https://andrii-lazarenko.com/service/group-psychotherapy/</guid>
+      <description>&lt;p&gt;Человек по своей сути в том числе и продукт общества. Наши более поздние слои психики формируются именно в малых и больших группах социума. Поэтому ряд психологических трудностей лучше и правильно наблюдать в группе и работать с ними именно группой.&lt;/p&gt;
+&lt;p&gt;Можно сказать, что психотерапия имеет два крыла - индивидуальную работу и групповую, которые направлены на разные слои психики человека, а вместе работают на задачу обретения целостности.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Групповая психотерапия</title>
-      <link>https://andrii-lazarenko.com/service/group-psychotherapy/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0300</pubDate>
+      <title>Индивидуальная работа</title>
+      <link>https://andrii-lazarenko.com/service/individual/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrii-lazarenko.com/service/group-psychotherapy/</guid>
-      <description>&lt;p&gt;Провожу психотерапевтические группы, где происходит психотерапия в группе, и психотерапия группой.&lt;/p&gt;</description>
+      <guid>https://andrii-lazarenko.com/service/individual/</guid>
+      <description>&lt;p&gt;В индивидуальной работе возможнен один из трех форматов:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;терапия;&lt;/li&gt;
+&lt;li&gt;коучинг;&lt;/li&gt;
+&lt;li&gt;консультирование.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Первый вид работы, кроме настоящего, направлен в некоторой мере на прошлое. Второй - скорее на будущее. Консультирование позволяет ознакомиться с потенциальным обьемом и форматом возможного взаимодействия под Вашу специфику запроса.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Организационная терапия</title>
       <link>https://andrii-lazarenko.com/service/organizational-therapy/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0300</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://andrii-lazarenko.com/service/organizational-therapy/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Коучинг топ и мидл менеджемента;&lt;/li&gt;
-&lt;li&gt;терапия групп:
-&lt;ol&gt;
-&lt;li&gt;фасилититация и командообразование новых отделов и команд, сформированных под проект;&lt;/li&gt;
-&lt;li&gt;медиация и терапия существующих отделов и команд (производительность, мотивация, застояшиеся конфликты, отладка процессов, стратегические сессии, др.)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>Коучинг топ- и мидл-менеджемента; Консультации и поддержка руководителей команд в управленческих вопросах; Отладка и построение бизнес-процессов в компании; Сопровождение процесса внедрения изменений:  в том числе Agile трансформаций (внедрение фреймворка Scrum, метода Kanban, авторских Agile процессов);   Фасилитация и медиация команд и межкомандных взаимодействий; Работа с проблемными отделами и межотдельными взаимодействиями; Другие вопросы, где вродебы система построена разумно и должна работать гладко, но постоянно что-то происходит в отношениях между людьми, что ломает процесс.</description>
     </item>
     
     <item>
-      <title>Agile coaching</title>
-      <link>https://andrii-lazarenko.com/service/agile-coaching/</link>
+      <title>Семейная терапия</title>
+      <link>https://andrii-lazarenko.com/service/family-counseling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://andrii-lazarenko.com/service/agile-coaching/</guid>
-      <description>Предлагаю услугу командообразования и отладку процессов проекта/продукта как для IT компаний/проектов/продуктов, так и не IT. За плечами 10 лет опыта работы в IT сфере от разработчика до топ-менеджера. Хорошо понимаю кухню качественной разработки, потребностей бизнеса и тонкостей ведения проектов IT сферы. Прожил много опыта и внедрений XP, Scrum, Kanban в с первую очередь по моей собственной инициативе, видя реальную пользу для успеха проектов. Есть сертификаты Certified ScrumMaster® и Certified Scrum Product Owner®.</description>
+      <guid>https://andrii-lazarenko.com/service/family-counseling/</guid>
+      <description>Данный вид услуги можно встретить под названием семейная медиация.
+На сессиях присутсвует либо пара, либо все члены семьи (зависит от необходимости).
+К данному виду работы прибегают либо в случаях семейных кризисов, либо когда в индивидульной работе с одним из членов семьи, становится понятным, что это задача семейной системы.
+Возможна работа одного терапевта или в паре с котерапевтом. Пара терапевтов более эффективна, но по цене стоит дороже.</description>
     </item>
     
   </channel>
