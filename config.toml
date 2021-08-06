@@ -11,7 +11,7 @@ enableRobotsTXT = true
   name = "Андрій Лазаренко"
   description = "Психолог. Психотерапевт. Оргтерапевт"
   email = "andrii.lazarenko.psy@gmail.com"
-  phone = "+38 066 74 39 713"
+  phone = "+380 (98) 121 32 37"
 
   hpServicesTitleTranslation = "Послуги"
   hpRecentWorksTitleTranslation = "Відгуки"
@@ -52,7 +52,7 @@ enableRobotsTXT = true
   name = "Андрей Лазаренко"
   description = "Психолог. Психотерапевт. Оргтерапевт."
   email = "andrii.lazarenko.psy@gmail.com"
-  phone = "+38 066 74 39 713"
+  phone = "+380 (98) 121 32 37"
   
   hpServicesTitleTranslation = "Услуги"
   hpRecentWorksTitleTranslation = "Отзывы"
@@ -92,7 +92,7 @@ enableRobotsTXT = true
     years = "2018-2021"
     background = ""
     favicon = "images/gt_favicon.png"
-    DateForm = "January 2, 2006"
+    DateForm = "February 20, 2018"
 
     showSubheader = true
     showServices = true
