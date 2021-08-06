@@ -1,8 +1,8 @@
 +++
 title = "Записаться"
+dateoff = true
 +++
 
-{{< iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vToFdpKglNplsxwFkvuxwGgGTNfJVVmIjgrNqBlygoEbuUm6ZRn8C2lyh3BCJPklg/pubhtml?gid=913480708&amp;single=true&amp;widget=true&amp;headers=false" height="600px" >}}
+Для того, чтобы начать любой из видов предложенного сотрудничества, нам необходимо познакомиться через бесплатную диагностическую сессию, длительностью 30-45 минут. В рамках сессии-знакомества также будет предоставлена вся необходимая информация по рекомендованному формату работы, длительности и цене.
 
 {{< calendly andrii-lazarenko-psy >}}
-

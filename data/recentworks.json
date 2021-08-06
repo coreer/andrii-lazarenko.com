@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "image": "/images/reviews/vn.png",
+        "items": [
+            {
+                "name": "management caunseling"
+            },
+            {
+                "name": "management mentoring"                
+            },
+            {
+                "name": "geshtalt-coaching"                
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "image": "/images/reviews/as.png",
+        "items": [
+            {
+                "name": "psychotherapy"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "image": "/images/reviews/vb.png",
+        "items": [
+            {
+                "name": "psychotherapy"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "image": "/images/reviews/al.png",
+        "items": [
+            {
+                "name": "geshtalt-coaching"
+            }
+        ]
+    }
+]

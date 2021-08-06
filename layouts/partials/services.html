@@ -1,0 +1,15 @@
+<div class="row section featured topspace">
+
+    <h2 class="section-title"><span>{{ .Site.Params.hpServicesTitleTranslation }}</span></h2>
+
+    <div class="">       
+        {{ range (sort (where .Site.RegularPages "Section" "service") ".Params.pos" "asc")}}
+            <div class="col-sm-6 col-md-3">
+                <h3 class="text-center">{{ .Title }}</h3>
+                <p>{{ .Summary }}</p>
+                <p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">{{ .Site.Params.ReadMoreTransl }}</a></p>
+            </div>
+        {{ end }}
+    </div>
+
+</div> <!-- / section -->

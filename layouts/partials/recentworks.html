@@ -1,0 +1,18 @@
+<div class="row section recentworks topspace">
+
+    <h2 class="section-title"><span>{{ .Site.Params.hpRecentWorksTitleTranslation }}</span></h2>
+
+    <div class="container">
+        {{ range $index, $area := .Site.Data.recentworks }}
+            <div class="row">
+                <div class="col">
+                    <span class="img">
+                        <img src="{{ .image }}" alt="">
+                    </span>
+                    <hr/>
+                </div>
+            </div>
+        {{ end }}
+    </div>
+
+</div> <!-- /section -->

@@ -12,14 +12,14 @@ enableRobotsTXT = true
   description = "Оргетерапевт. Інтегративна психотерапія гештальт і культурно-історичного підходів"
   email = "andrii.lazarenko.psy@gmail.com"
   phone = "+38 066 74 39 713"
-  address = "Київ, Україна"
 
   hpServicesTitleTranslation = "Послуги"
+  hpRecentWorksTitleTranslation = "Відгуки"
   ReadMoreTransl = "Читати далі..."
 
   contactTitleTranslation = "Контакти"
   followMeTranslation = "Соцмережі"
-  keyMessage = "Головне повідомлення"
+  keyMessage = "М'яко. Людяно. Точно."
   myFriendsTitleTranslation = "Мої друзі"
   footerFormWidgetHeadline = "Підписатись"
  
@@ -48,24 +48,22 @@ enableRobotsTXT = true
 
 [languages.ru]
   languageName = "Рус"
-  title = "Андрей Лазаренко - оргтерапевт. Интегративная психотерапия гештальт и культурно-исторического подходов"
+  title = "Андрей Лазаренко - психолог. Интегративная психотерапия."
   name = "Андрей Лазаренко"
-  description = "Оргтерапевт. Интегративная психотерапия гештальт и культурно-исторического подходов."
+  description = "Психолог. Гештальт-терапевт. Оргтерапевт."
   email = "andrii.lazarenko.psy@gmail.com"
   phone = "+38 066 74 39 713"
-  address = "Киев, Украина"
   
   hpServicesTitleTranslation = "Услуги"
+  hpRecentWorksTitleTranslation = "Отзывы"
   ReadMoreTransl = "Читать далее..."
   
   contactTitleTranslation = "Контакти"
   followMeTranslation = "Соцсети"
-  keyMessage = "Изнутри наружу - путь самопознания и самосовершенстования"
+  keyMessage = "Мягко. Человечно. Точно."
   myFriendsTitleTranslation = "Мои друзья"
   footerFormWidgetHeadline = "Подписаться"
 
-  footerTextBoxHeadline = "Cуть культурно-исторического подхода"
-  footerTextBoxBody = "Возвращаясь к корням, соеденить настоящее с прошлым, ради будущего!"
 
   [[languages.ru.menu.main]]
     url = "/ru/"
@@ -91,7 +89,7 @@ enableRobotsTXT = true
 
 
 [params]    
-    year = 2018
+    years = "2018-2021"
     background = ""
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"

@@ -1,7 +1,8 @@
 +++
 title = "Записатись"
+dateoff = true
 +++
 
-{{< iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vToFdpKglNplsxwFkvuxwGgGTNfJVVmIjgrNqBlygoEbuUm6ZRn8C2lyh3BCJPklg/pubhtml?gid=1549330244&amp;single=true&amp;widget=true&amp;headers=false" height="600px" >}}
+Щоб розпочати будь-який вид співпраці, нам необхідно познайомитись через безкоштовну діагностичну сесію, яка триває від 30 до 45 хвилин. На якій ми визначимо чи можлива у нас з Вам співпраця та в якому саме вигляді, уся необхідна інформація: рекомендована тривалість та формат, узгоджена ціна, ін - буде надана в рамках цієї сесії.
 
 {{< calendly andrii-lazarenko-psy >}}
