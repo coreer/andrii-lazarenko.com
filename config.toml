@@ -115,6 +115,13 @@ enableRobotsTXT = true
     trackerID = "GA-000000000-0"
 
 [[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/andrii-lazarenko-074ba614/"
+    icon = "fa-linkedin-square"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
 	title = "facebook"
 	url = "https://www.facebook.com/andriiy.lazarenko"
     icon = "fa-facebook-square"
@@ -127,14 +134,7 @@ enableRobotsTXT = true
     icon = "fa-instagram"
     footer = true
     sharethis = false
-    network = ""
-[[params.social]]
-	title = "linkedin"
-	url = "https://www.linkedin.com/in/andrii-lazarenko-074ba614/"
-    icon = "fa-linkedin-square"
-    footer = true
-    sharethis = true
-    network = "linkedin"
+    network = "instagram"
 [[params.social]]
 	title = "email"
 	url = "mailto:andrii.lazarenko.psy@gmail.com"
