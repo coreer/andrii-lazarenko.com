@@ -111,6 +111,10 @@ enableRobotsTXT = true
     property = "123456789012345678901234"
     custom = true
 
+[params.disqus]
+    site = "andrii-lazarenko-psy.disqus.com"
+
+
 [params.google.analytics]
     trackerID = "GA-000000000-0"
 
