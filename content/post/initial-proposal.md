@@ -35,5 +35,5 @@ date = "2018-07-30"
 Обращайтесь!  
 И не забывайте свои корни, кем бы вы ни были, и все однажды получится!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LLbrkZE_7Ko" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J3grhAJCTj4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+{{< iframe src="https://www.youtube.com/embed/LLbrkZE_7Ko" height="315" >}}
+{{< iframe src="https://www.youtube.com/embed/J3grhAJCTj4" height="315" >}}

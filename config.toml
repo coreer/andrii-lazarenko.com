@@ -92,7 +92,7 @@ enableRobotsTXT = true
     years = "2018-2021"
     background = ""
     favicon = "images/gt_favicon.png"
-    DateForm = "February 20, 2018"
+    DateForm = "January 2, 2006"
 
     showSubheader = true
     showServices = true
