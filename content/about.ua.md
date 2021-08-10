@@ -44,8 +44,8 @@ dateoff = true
 ![Магістр психології](/images/diplomas_and_certs/psychology_diploma.jpg)
 ![Теорія та практика гештальт-терапії](/images/diplomas_and_certs/geshtalt_root.jpeg)
 ![Сучасна та народна психотерапія](/images/diplomas_and_certs/current_and_folk.jpg)
-![Інтегративна сімейна терапія](/images/diplomas_and_certs/current_and_folk.jpg)
-![Інтегративна групова психотерапія](/images/diplomas_and_certs/current_and_folk.jpg)
+![Інтегративна сімейна терапія](/images/diplomas_and_certs/integrative_family.jpg)
+![Інтегративна групова психотерапія](/images/diplomas_and_certs/integrative_group.jpg)
 ![Гештальт-коучінг: теорія та практика. Частина І.](/images/diplomas_and_certs/gcc1-cert.jpg)
 
 {{< bootstrap-table table_class="table table-responsive borderless" >}}
