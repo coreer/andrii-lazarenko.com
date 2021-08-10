@@ -73,13 +73,17 @@
 	<div class="container">
 		<div class="row">
 
-			<div class="col-md-6 widget">
+			<div class="col-md-4 widget">
 				<div class="widget-body">
 					Powered by: <a href="https://gohugo.io/" rel="poweredby">Hugo</a>
 				</div>
 			</div>
-
-			<div class="col-md-6 widget">
+			<div class="col-md-4 widget">
+				<div class="widget-body">
+					<object type="image/svg+xml" data="{{ .Site.BaseURL }}images/footer-logo.svg" id="footerLogo"></object>
+				</div>
+			</div>
+			<div class="col-md-4 widget">
 				<div class="widget-body">
 					<p class="text-right">
 						Copyright &copy; {{ .Site.Params.years }}, {{ .Site.Params.name }}<br>						
