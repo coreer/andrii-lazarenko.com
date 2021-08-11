@@ -24,7 +24,7 @@ enableRobotsTXT = true
   footerFormWidgetHeadline = "Підписатись"
  
   [[languages.ua.menu.main]]
-    url = "/"
+    url = "/ua"
     name = "Головна"
     weight = 1
   [[languages.ua.menu.main]]
@@ -45,11 +45,11 @@ enableRobotsTXT = true
     weight = 50 
 
   [[languages.ua.menu.footer]]
-    url = "/terms-and-conditions/"
+    url = "/ua/terms-and-conditions/"
     name = "Правила та умови"
     weight = 10   
   [[languages.ua.menu.footer]]
-    url = "/refund-policy/"
+    url = "/ua/refund-policy/"
     name = "Правила повернення грошових коштів"
     weight = 100 
 
