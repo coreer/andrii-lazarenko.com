@@ -44,7 +44,16 @@ enableRobotsTXT = true
     name = "Контакти"
     weight = 50 
 
-  
+  [[languages.ua.menu.footer]]
+    url = "/terms-and-conditions/"
+    name = "Правила та умови"
+    weight = 10   
+  [[languages.ua.menu.footer]]
+    url = "/refund-policy/"
+    name = "Правила повернення грошових коштів"
+    weight = 100 
+
+
 
 [languages.ru]
   languageName = "Рус"
@@ -86,6 +95,14 @@ enableRobotsTXT = true
     name = "Контакты"
     weight = 50
 
+  [[languages.ru.menu.footer]]
+    url = "/terms-and-conditions/"
+    name = "Правила и условия"
+    weight = 10   
+  [[languages.ru.menu.footer]]
+    url = "/refund-policy/"
+    name = "Правила возвращения денежных средств"
+    weight = 100 
 
 
 [params]    
@@ -102,7 +119,7 @@ enableRobotsTXT = true
 
     footerEnableContact = true
     footerEnableFollowme = true
-    footerEnableTextWidget = true
+    footerEnableMenu = true
     footerEnableFormWidget = true
 
 

@@ -29,12 +29,15 @@
 			</div>
 			{{ end }}
 
-			{{ if .Site.Params.footerEnableTextWidget }}
+			{{ if .Site.Params.footerEnableMenu }}
 			<div class="col-md-3 widget">
-				<h3 class="widget-title">{{ .Site.Params.footerTextBoxHeadline }}</h3>
-				<div class="widget-body">
-					{{ .Site.Params.footerTextBoxBody }}
-				</div>
+				<ul class="nav">
+				{{ range .Site.Menus.footer }}
+					<li>
+						<h3 class="widget-title"><a href="{{ .URL }}">{{ .Name }}</a></h3>
+					</li>
+				{{end}}               
+				</ul>
 			</div>
 			{{ end }}
 
