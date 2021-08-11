@@ -366,6 +366,34 @@
   </url>
   
   <url>
+    <loc>https://andrii-lazarenko.com/refund-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/refund-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/refund-policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/terms-and-conditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/terms-and-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/terms-and-conditions/"
+                />
+  </url>
+  
+  <url>
     <loc>https://andrii-lazarenko.com/service/family-counseling/</loc>
     <xhtml:link
                 rel="alternate"
