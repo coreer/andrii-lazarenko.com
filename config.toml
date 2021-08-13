@@ -52,6 +52,11 @@ enableRobotsTXT = true
     url = "/ua/refund-policy/"
     name = "Правила повернення грошових коштів"
     weight = 100 
+  [[languages.ua.menu.footer]]
+    url = "https://secure.wayforpay.com/finid/380667439713"
+    name = "Подякувати фінансово"
+    weight = 200 
+    
 
 
 
@@ -103,6 +108,10 @@ enableRobotsTXT = true
     url = "/refund-policy/"
     name = "Правила возвращения денежных средств"
     weight = 100 
+  [[languages.ru.menu.footer]]
+    url = "https://secure.wayforpay.com/finid/380667439713"
+    name = "Поблагодарить финансово"
+    weight = 200 
 
 
 [params]    
