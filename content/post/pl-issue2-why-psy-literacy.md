@@ -12,7 +12,7 @@ tags = [
     "psy_ala_fin_litaracy",
     "psychological_hygiene",
     "mentalhealth",
-    "issue1"    
+    "issue2"    
 ]
 +++  
 
