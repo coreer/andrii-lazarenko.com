@@ -3,8 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://andrii-lazarenko.com/ua/tags/dsm/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/tags/dsm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/tags/dsm/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/tags/dsm-iv/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/tags/dsm-iv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/tags/dsm-iv/"
+                />
+  </url>
+  
+  <url>
     <loc>https://andrii-lazarenko.com/ua/post/</loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -19,7 +49,7 @@
   
   <url>
     <loc>https://andrii-lazarenko.com/ua/tags/</loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -34,7 +64,7 @@
   
   <url>
     <loc>https://andrii-lazarenko.com/ua/</loc>
-    <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -45,6 +75,46 @@
                 hreflang="ua"
                 href="https://andrii-lazarenko.com/ua/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/post/depression/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://andrii-lazarenko.com/post/depression/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://andrii-lazarenko.com/ua/post/depression/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/tags/%D0%B3%D0%B5%D1%88%D1%82%D0%B0%D0%BB%D1%8C%D1%82-%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/tags/%D0%B3%D0%B5%D1%88%D1%82%D0%B0%D0%BB%D1%8C%D1%82-%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D1%96%D1%8F/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/tags/%D0%B4%D0%B5%D0%BF%D1%80%D0%B5%D1%81%D1%96%D1%8F/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/tags/%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%B0%D0%BD%D0%B0%D0%BB%D1%96%D0%B7/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrii-lazarenko.com/ua/tags/%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D1%82%D0%B5%D1%80%D0%B0%D0%BF%D1%96%D1%8F/</loc>
+    <lastmod>2021-05-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
