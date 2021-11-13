@@ -162,7 +162,7 @@ enableRobotsTXT = true
     network = "facebook"
 [[params.social]]
 	title = "instagram"
-	url = "https://www.instagram.com/_coreer/"
+	url = "https://www.instagram.com/psycholog_lazarenko"
     icon = "fa-instagram"
     footer = true
     sharethis = false
