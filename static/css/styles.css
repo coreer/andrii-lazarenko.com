@@ -857,29 +857,22 @@ footer.entry-meta .meta-in {
 #head:hover {
   background-image: url(../images/bg_head_grey.jpg);
 }  
-
-#head h1 img {
-    transition: filter .5s ease-in-out;
-    -webkit-filter: grayscale(100%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
-    filter: grayscale(100%); /* FF 35+ */
-}
-  
-#head:hover h1 img {
-  transition: filter .5s ease-in-out;
-    -webkit-filter: grayscale(0%); /* Ch 23+, Saf 6.0+, BB 10.0+ */
-    filter: grayscale(0%); /* FF 35+ */
-  }
-
 #logoWrapper {
   text-align: center;  
 }
 
-#logoWrapper span {
+#logoLink {
   width: 120px;  
   padding: 10px 10px 0px;
   background-color: #FFF27A;
   opacity: 0.7; 
   display: inline-block; 
+}
+
+#mainHeadline {
+  margin-top: 170px;
+  margin-left: 15%;
+  margin-bottom: 40px;
 }
 
 #head .title,
@@ -889,7 +882,13 @@ footer.entry-meta .meta-in {
   background-color: #FFF27A;
   opacity: 0.7;
   display: inline-block;
-} 
+}
+
+#head .emphasized {
+  color: #000;
+  font-weight: bold;
+}
+
 
 #footer {
   background: #003e74;
